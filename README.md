@@ -1,4 +1,6 @@
 # Git_basics
--Name: Hiren Bavaskar
--Project title: SOC Unscripted git revision
--Date: 07.04.2021
+Name: Hiren Bavaskar
+
+Project title: SOC Unscripted git revision
+
+Date: 07.04.2021
